@@ -1254,7 +1254,9 @@ table.grid td.date {
 	input#shareapiExpireAfterNDays {
 		width: 40px;
 	}
-
+	input#shareapiExpireAfterMinNDays {
+		width: 40px;
+	}
 	.indent {
 		padding-left: 28px;
 	}

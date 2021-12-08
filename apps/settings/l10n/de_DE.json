@@ -499,7 +499,8 @@
     "The app will be downloaded from the app store" : "Die App wird aus dem App-Store heruntergeladen",
     "Error: This app can not be enabled because it makes the server unstable" : "Fehler: Diese App kann nicht aktiviert werden, da sie den Server instabil macht. ",
     "mail" : "E-Mail",
-    "Expire after " : "Ablauf nach ",
+    "Expire after " : "Ablauf spätestens nach ",
+    "Expire minumum after" : "Ablauf frühstens nach",
     "days" : "Tagen",
     "Allow users to share via link" : "Benutzern erlauben, Inhalte über Links zu teilen",
     "Set default expiration date for link shares" : "Legen Sie das Standardablaufdatum für Link-Freigaben fest",
@@ -509,6 +510,8 @@
     "For password reset and notifications" : "Für Passwort-Wiederherstellung und Benachrichtigungen",
     "Change privacy level of full name" : "Datenschutzstufe des vollen Namens ändern",
     "Change privacy level of email" : "Datenschutzstufe der E-Mail-Adresse ändern",
-    "Set as primary mail" : "Als primäre E-Mail-Adresse festlegen"
+    "Set as primary mail" : "Als primäre E-Mail-Adresse festlegen",
+    "Expire max after" : "Ablauf spätestens nach",
+    "Expire min after" : "Ablauf frühstens nach"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

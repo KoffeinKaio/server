@@ -501,6 +501,8 @@ OC.L10N.register(
     "For password reset and notifications" : "Für Passwort-Wiederherstellung und Benachrichtigungen",
     "Change privacy level of full name" : "Datenschutzstufe des vollständigen Namens ändern",
     "Change privacy level of email" : "Datenschutzstufe der E-Mail-Adresse ändern",
-    "Set as primary mail" : "Als primäre E-Mail-Adresse festlegen"
+    "Set as primary mail" : "Als primäre E-Mail-Adresse festlegen",
+    "Expire max after" : "Ablauf spätestens nach",
+    "Expire min after" : "Ablauf frühstens nach"
 },
 "nplurals=2; plural=(n != 1);");
