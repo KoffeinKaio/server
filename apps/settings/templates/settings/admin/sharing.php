@@ -126,8 +126,8 @@
 	p('hidden');
 }?>">
 		<?php p($l->t('Expire min after'). ' '); ?>
-		<input type="text" name='shareapi_remote_expire_min_after_n_days' id="shareapiExpireAfterMinNDays" placeholder="<?php p('1')?>"
-			   value='<?php p($_['shareapiRemoteExpireAfterMinNDays']) ?>' />
+		<input type="text" name='shareapi_expire_min_after_n_days' id="shareapiExpireAfterMinNDays" placeholder="<?php p('0')?>"
+			   value='<?php p($_['shareExpireMinAfterNDays']) ?>' />
 		<?php p($l->t('days')); ?>
 		<br>
 		<?php p($l->t('Expire max after'). ' '); ?>

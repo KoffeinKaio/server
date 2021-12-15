@@ -886,6 +886,7 @@ class Share extends Constants {
 	/**
 	 * @return int
 	 */
+	// B1: used by calcExpireDate in Helper.php which seems to be dead code
 	public static function getExpireInterval() {
 		return (int)\OC::$server->getConfig()->getAppValue('core', 'shareapi_expire_after_n_days', '7');
 	}

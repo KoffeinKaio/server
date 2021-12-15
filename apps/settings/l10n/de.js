@@ -503,6 +503,8 @@ OC.L10N.register(
     "Change privacy level of email" : "Datenschutzstufe der E-Mail-Adresse ändern",
     "Set as primary mail" : "Als primäre E-Mail-Adresse festlegen",
     "Expire max after" : "Ablauf spätestens nach",
-    "Expire min after" : "Ablauf frühstens nach"
+    "Expire min after" : "Ablauf frühstens nach",
+    "Cannot set expiration date earlier than %n day from now" : "Kann Ablaufdatum nicht früher als %s Tag setzen.",
+    "Cannot set expiration date earlier than %n days from now" : "Kann Ablaufdatum nicht früher als %s Tage setzen."
 },
 "nplurals=2; plural=(n != 1);");
